@@ -1,0 +1,7 @@
+Problemas aparentes con el Crawler v2
+
+- Bug al cambiar de keyword (Selenium o yo)
+- Ambiguedad en los terminos de búsqueda [tiktoks fuera del caso de estudio]
+- Elementos repetidos por terminos en común
+- Poco robusto el método de comprobación de Captcha
+- 
